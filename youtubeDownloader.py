@@ -27,9 +27,7 @@ print("Downloading video...")
 video = stream.download()
 
 
-import shutil
 if extension == "mp4":
-	shutil.move(str(video), r"C:\Users\Flori\Downloads")
 	print("Done.")
 	exit()
 else:
@@ -47,4 +45,3 @@ else:
 
 	import os
 	os.remove(video)
-	shutil.move(filePath, r"C:\Users\Flori\Downloads")
