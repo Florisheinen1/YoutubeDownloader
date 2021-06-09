@@ -1,1 +1,2 @@
-"Scripts\python.exe" youtubeDownloader.py %*
+"%~dp0\Scripts\python.exe" "%~dp0\youtubeDownloader.py" %*
+pause
