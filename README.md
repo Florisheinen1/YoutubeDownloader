@@ -17,7 +17,7 @@ Download youtube videos from urls as mp4, mp3 or wav, so you do not have to use 
 4. Exit the virtual environment.
 	```
 	deactivate
-        ```
+	```
 
 ## Usage
 	```
