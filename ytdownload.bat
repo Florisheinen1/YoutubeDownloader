@@ -1,1 +1,2 @@
-"%~dp0Scripts\python.exe" "%~dp0youtubeDownloader.py" %*
+@echo off
+"%~dp0venv\Scripts\python.exe" "%~dp0youtubeDownloader.py" %*
