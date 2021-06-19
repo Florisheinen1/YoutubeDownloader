@@ -20,10 +20,10 @@ Download youtube videos from urls as mp4, mp3 or wav, so you do not have to use 
 	```
 
 ## Usage
-	```
-	venv\Scripts\python.exe youtubeDownloader.py ["mp3","mp4","wav"] url
-	```
+```
+venv\Scripts\python.exe youtubeDownloader.py ["mp3","mp4","wav"] url
+```
 ### or
-	```
-	ytdownload.bat ["mp3","mp4","wav"] url
-	```
+```
+ytdownload.bat ["mp3","mp4","wav"] url
+```
