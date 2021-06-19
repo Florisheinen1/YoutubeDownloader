@@ -14,6 +14,7 @@ Download youtube videos from urls as mp4, mp3 or wav, so you do not have to use 
 4. Exit the virtual environment.
 
 	deactivate
+        testCode
 
 ## Usage
 	venv\Scripts\python.exe youtubeDownloader.py ["mp3","mp4","wav"] url
