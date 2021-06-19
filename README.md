@@ -3,12 +3,16 @@ Download youtube videos from urls as mp4, mp3 or wav, so you do not have to use 
 
 ## Installation
 1. Create virtual environment.
+
 	python -m virtualenv venv
 2. Enter the virtual environment by executing.
+
 	venv\Scripts\activate
 3. Install pip requirements.
+
 	pip install -r requirements.txt
 4. Exit the virtual environment.
+
 	deactivate
 
 ## Usage
